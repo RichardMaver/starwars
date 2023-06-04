@@ -3,7 +3,7 @@
     --h1-color: #fff;
     --main-bg: #1b1b2f;
     --button-color: #4e54c8;
-    --chracter-color: #0f3460;
+    --character-color: #0f3460;
     --cool-text-color: #e94560;
     --character-li-color: #16213e;
 }
@@ -54,7 +54,7 @@ input {
 }
 
 #character {
-    background: var(--chracter-color);
+    background: var(--character-color);
     color: var(--cool-text-color);
     padding: 20px;
     margin: 30px auto;
